@@ -1,0 +1,674 @@
+[Tue Apr 22 22:24:10 2025] Watcher backend started.
+[Tue Apr 22 22:24:11 2025] Clipboard changed: 'python main.py
+'
+[Tue Apr 22 22:24:24 2025] Special key pressed: Key.media_volume_down
+[Tue Apr 22 22:24:39 2025] Clipboard changed: 'mkdir logs
+'
+[Tue Apr 22 22:24:41 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:24:41 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:24:42 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:24:42 2025] Key pressed: 
+[Tue Apr 22 22:25:30 2025] Watcher backend started.
+[Tue Apr 22 22:25:30 2025] Clipboard changed: 'D:\projects\kantekiFemale\wandering_sprite_full_pa'
+[Tue Apr 22 22:25:39 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:25:39 2025] Key pressed: 
+[Tue Apr 22 22:25:40 2025] Clipboard changed: 'PS D:\projects\kantekiFemale\wandering_sprite_full'
+[Tue Apr 22 22:25:41 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:25:41 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:25:41 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:25:42 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:25:42 2025] Key pressed: 
+[Tue Apr 22 22:25:42 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:27:20 2025] Watcher backend started.
+[Tue Apr 22 22:27:21 2025] Clipboard changed: 'D:\projects\kantekiFemale\wandering_sprite_full_pa'
+[Tue Apr 22 22:28:08 2025] Watcher backend started.
+[Tue Apr 22 22:28:08 2025] Clipboard changed: 'python main.py
+'
+[Tue Apr 22 22:28:11 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:28:12 2025] Key pressed: 
+[Tue Apr 22 22:28:13 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:28:13 2025] Key pressed: 
+[Tue Apr 22 22:28:17 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:28:18 2025] Key pressed: 
+[Tue Apr 22 22:28:18 2025] Clipboard changed: 'PS C:\Users\Ian> cd D:\projects\kantekiFemale\wand'
+[Tue Apr 22 22:28:19 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:28:20 2025] Key pressed: 
+[Tue Apr 22 22:28:20 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:28:20 2025] Key pressed: 
+[Tue Apr 22 22:28:20 2025] Key pressed: 
+[Tue Apr 22 22:28:21 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:28:21 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:28:32 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:28:33 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:28:33 2025] Special key pressed: Key.esc
+[Tue Apr 22 22:29:37 2025] Clipboard changed: 'print("Starting Watcher Backend...")
+'
+[Tue Apr 22 22:29:51 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:29:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:30:50 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:30:51 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:30:51 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:30:51 2025] Key pressed: 
+[Tue Apr 22 22:30:53 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:30:55 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:30:56 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:30:56 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:30:56 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:30:56 2025] Key pressed: 
+[Tue Apr 22 22:32:01 2025] Watcher backend started.
+[Tue Apr 22 22:32:01 2025] Clipboard changed: 'D:\projects\kantekiFemale\wandering_sprite_full_pa'
+[Tue Apr 22 22:32:06 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:32:07 2025] Key pressed: 
+[Tue Apr 22 22:32:07 2025] Clipboard changed: 'PS C:\Users\Ian> cd D:\projects\kantekiFemale\wand'
+[Tue Apr 22 22:32:12 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:32:12 2025] Key pressed: 
+[Tue Apr 22 22:32:13 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:32:30 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:32:30 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:32:30 2025] Special key pressed: Key.esc
+[Tue Apr 22 22:32:57 2025] Key pressed: i
+[Tue Apr 22 22:32:57 2025] Special key pressed: Key.space
+[Tue Apr 22 22:32:57 2025] Key pressed: s
+[Tue Apr 22 22:32:57 2025] Key pressed: e
+[Tue Apr 22 22:32:57 2025] Key pressed: e
+[Tue Apr 22 22:32:57 2025] Special key pressed: Key.space
+[Tue Apr 22 22:32:57 2025] Key pressed: n
+[Tue Apr 22 22:32:57 2025] Key pressed: o
+[Tue Apr 22 22:32:58 2025] Key pressed: d
+[Tue Apr 22 22:32:58 2025] Key pressed: e
+[Tue Apr 22 22:32:58 2025] Key pressed: .
+[Tue Apr 22 22:32:58 2025] Key pressed: j
+[Tue Apr 22 22:32:58 2025] Key pressed: s
+[Tue Apr 22 22:32:59 2025] Key pressed: .
+[Tue Apr 22 22:32:59 2025] Key pressed: .
+[Tue Apr 22 22:32:59 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:33:14 2025] Key pressed: w
+[Tue Apr 22 22:33:14 2025] Key pressed: s
+[Tue Apr 22 22:33:15 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:33:15 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:33:15 2025] Key pressed: e
+[Tue Apr 22 22:33:15 2025] Key pressed: d
+[Tue Apr 22 22:33:15 2025] Key pressed: g
+[Tue Apr 22 22:33:16 2025] Key pressed: e
+[Tue Apr 22 22:33:16 2025] Special key pressed: Key.space
+[Tue Apr 22 22:33:16 2025] Key pressed: w
+[Tue Apr 22 22:33:16 2025] Key pressed: e
+[Tue Apr 22 22:33:16 2025] Key pressed: b
+[Tue Apr 22 22:33:17 2025] Key pressed: i
+[Tue Apr 22 22:33:17 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:33:17 2025] Key pressed: v
+[Tue Apr 22 22:33:17 2025] Key pressed: i
+[Tue Apr 22 22:33:17 2025] Key pressed: e
+[Tue Apr 22 22:33:17 2025] Key pressed: w
+[Tue Apr 22 22:33:18 2025] Key pressed: 2
+[Tue Apr 22 22:33:18 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:33:18 2025] Key pressed: ?
+[Tue Apr 22 22:33:19 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:34:46 2025] Key pressed: l
+[Tue Apr 22 22:34:46 2025] Key pressed: o
+[Tue Apr 22 22:34:46 2025] Key pressed: f
+[Tue Apr 22 22:34:47 2025] Key pressed: f
+[Tue Apr 22 22:34:47 2025] Key pressed: i
+[Tue Apr 22 22:34:47 2025] Key pressed: n
+[Tue Apr 22 22:34:47 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:34:47 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:34:47 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:34:48 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:34:48 2025] Key pressed: g
+[Tue Apr 22 22:34:48 2025] Key pressed: g
+[Tue Apr 22 22:34:48 2025] Key pressed: i
+[Tue Apr 22 22:34:48 2025] Key pressed: n
+[Tue Apr 22 22:34:48 2025] Key pressed: g
+[Tue Apr 22 22:34:49 2025] Special key pressed: Key.space
+[Tue Apr 22 22:34:49 2025] Key pressed: p
+[Tue Apr 22 22:34:49 2025] Key pressed: u
+[Tue Apr 22 22:34:49 2025] Key pressed: r
+[Tue Apr 22 22:34:49 2025] Key pressed: p
+[Tue Apr 22 22:34:49 2025] Key pressed: o
+[Tue Apr 22 22:34:49 2025] Key pressed: s
+[Tue Apr 22 22:34:49 2025] Key pressed: e
+[Tue Apr 22 22:34:50 2025] Key pressed: s
+[Tue Apr 22 22:34:50 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:34:50 2025] Key pressed: ?
+[Tue Apr 22 22:34:50 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:35:24 2025] Key pressed: c
+[Tue Apr 22 22:35:24 2025] Key pressed: o
+[Tue Apr 22 22:35:24 2025] Key pressed: u
+[Tue Apr 22 22:35:24 2025] Key pressed: l
+[Tue Apr 22 22:35:24 2025] Key pressed: d
+[Tue Apr 22 22:35:24 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:24 2025] Key pressed: t
+[Tue Apr 22 22:35:25 2025] Key pressed: h
+[Tue Apr 22 22:35:25 2025] Key pressed: a
+[Tue Apr 22 22:35:25 2025] Key pressed: t
+[Tue Apr 22 22:35:25 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:25 2025] Key pressed: j
+[Tue Apr 22 22:35:25 2025] Key pressed: u
+[Tue Apr 22 22:35:26 2025] Key pressed: s
+[Tue Apr 22 22:35:26 2025] Key pressed: t
+[Tue Apr 22 22:35:26 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:26 2025] Key pressed: b
+[Tue Apr 22 22:35:26 2025] Key pressed: e
+[Tue Apr 22 22:35:26 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:26 2025] Key pressed: t
+[Tue Apr 22 22:35:26 2025] Key pressed: h
+[Tue Apr 22 22:35:27 2025] Key pressed: e
+[Tue Apr 22 22:35:27 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:27 2025] Key pressed: p
+[Tue Apr 22 22:35:27 2025] Key pressed: r
+[Tue Apr 22 22:35:27 2025] Key pressed: o
+[Tue Apr 22 22:35:27 2025] Key pressed: g
+[Tue Apr 22 22:35:27 2025] Key pressed: r
+[Tue Apr 22 22:35:27 2025] Key pressed: a
+[Tue Apr 22 22:35:27 2025] Key pressed: m
+[Tue Apr 22 22:35:27 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:28 2025] Key pressed: w
+[Tue Apr 22 22:35:28 2025] Key pressed: e
+[Tue Apr 22 22:35:28 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:28 2025] Key pressed: j
+[Tue Apr 22 22:35:28 2025] Key pressed: u
+[Tue Apr 22 22:35:28 2025] Key pressed: s
+[Tue Apr 22 22:35:28 2025] Key pressed: t
+[Tue Apr 22 22:35:29 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:30 2025] Key pressed: m
+[Tue Apr 22 22:35:30 2025] Key pressed: a
+[Tue Apr 22 22:35:30 2025] Key pressed: d
+[Tue Apr 22 22:35:30 2025] Key pressed: e
+[Tue Apr 22 22:35:31 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:32 2025] Key pressed: d
+[Tue Apr 22 22:35:32 2025] Key pressed: o
+[Tue Apr 22 22:35:32 2025] Key pressed: i
+[Tue Apr 22 22:35:32 2025] Key pressed: n
+[Tue Apr 22 22:35:32 2025] Key pressed: g
+[Tue Apr 22 22:35:32 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:32 2025] Key pressed: i
+[Tue Apr 22 22:35:32 2025] Key pressed: t
+[Tue Apr 22 22:35:32 2025] Key pressed: '
+[Tue Apr 22 22:35:32 2025] Key pressed: s
+[Tue Apr 22 22:35:32 2025] Special key pressed: Key.space
+[Tue Apr 22 22:35:33 2025] Key pressed: t
+[Tue Apr 22 22:35:33 2025] Key pressed: h
+[Tue Apr 22 22:35:33 2025] Key pressed: i
+[Tue Apr 22 22:35:33 2025] Key pressed: n
+[Tue Apr 22 22:35:33 2025] Key pressed: g
+[Tue Apr 22 22:35:33 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:35:33 2025] Key pressed: ?
+[Tue Apr 22 22:35:33 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:44:48 2025] Watcher backend started.
+[Tue Apr 22 22:44:54 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:44:55 2025] Key pressed: 
+[Tue Apr 22 22:44:56 2025] Clipboard changed: 'PS C:\Users\Ian> cd D:\projects\kantekiFemale\wand'
+[Tue Apr 22 22:44:57 2025] Key pressed: a
+[Tue Apr 22 22:44:57 2025] Key pressed: f
+[Tue Apr 22 22:44:58 2025] Key pressed: t
+[Tue Apr 22 22:44:58 2025] Key pressed: e
+[Tue Apr 22 22:44:58 2025] Key pressed: r
+[Tue Apr 22 22:44:59 2025] Special key pressed: Key.space
+[Tue Apr 22 22:44:59 2025] Special key pressed: Key.space
+[Tue Apr 22 22:44:59 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:44:59 2025] Key pressed: a
+[Tue Apr 22 22:44:59 2025] Special key pressed: Key.space
+[Tue Apr 22 22:45:00 2025] Key pressed: r
+[Tue Apr 22 22:45:00 2025] Key pressed: e
+[Tue Apr 22 22:45:00 2025] Key pressed: s
+[Tue Apr 22 22:45:00 2025] Key pressed: t
+[Tue Apr 22 22:45:01 2025] Key pressed: a
+[Tue Apr 22 22:45:01 2025] Key pressed: r
+[Tue Apr 22 22:45:01 2025] Key pressed: t
+[Tue Apr 22 22:45:01 2025] Special key pressed: Key.space
+[Tue Apr 22 22:45:02 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:02 2025] Key pressed: 
+[Tue Apr 22 22:45:02 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:45:51 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:53 2025] Key pressed: 
+[Tue Apr 22 22:45:53 2025] Key pressed: 
+[Tue Apr 22 22:45:54 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:54 2025] Key pressed: 
+[Tue Apr 22 22:45:56 2025] Clipboard changed: '
+import time
+from watcher_core import log_event
+
+d'
+[Tue Apr 22 22:45:57 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:45:57 2025] Key pressed: 
+[Tue Apr 22 22:46:04 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:46:06 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:46:07 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:46:16 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:16 2025] Key pressed: 
+[Tue Apr 22 22:46:17 2025] Key pressed: 
+[Tue Apr 22 22:46:18 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:18 2025] Key pressed: 
+[Tue Apr 22 22:46:20 2025] Clipboard changed: '
+import os
+import time
+from watcher_core import lo'
+[Tue Apr 22 22:46:21 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:21 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:21 2025] Key pressed: 
+[Tue Apr 22 22:46:24 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:24 2025] Key pressed: 
+[Tue Apr 22 22:46:24 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:25 2025] Key pressed: 
+[Tue Apr 22 22:46:25 2025] Key pressed: 
+[Tue Apr 22 22:46:26 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:26 2025] Key pressed: 
+[Tue Apr 22 22:46:42 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:43 2025] Key pressed: 
+[Tue Apr 22 22:46:43 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:43 2025] Key pressed: 
+[Tue Apr 22 22:46:44 2025] Clipboard changed: '
+def trigger_sprite_reaction(event_type):
+    if e'
+[Tue Apr 22 22:46:45 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:46 2025] Key pressed: 
+[Tue Apr 22 22:46:46 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:46 2025] Key pressed: 
+[Tue Apr 22 22:46:49 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:49 2025] Key pressed: 
+[Tue Apr 22 22:46:50 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:50 2025] Key pressed: 
+[Tue Apr 22 22:46:52 2025] Clipboard changed: '
+import requests
+
+BOT_TOKEN = '7661561704:AAES8gFb'
+[Tue Apr 22 22:46:52 2025] Special key pressed: Key.ctrl_l
+[Tue Apr 22 22:46:52 2025] Key pressed: 
+[Tue Apr 22 22:46:55 2025] Special key pressed: Key.space
+[Tue Apr 22 22:46:56 2025] Key pressed: d
+[Tue Apr 22 22:46:57 2025] Key pressed: e
+[Tue Apr 22 22:46:57 2025] Key pressed: c
+[Tue Apr 22 22:46:57 2025] Key pressed: o
+[Tue Apr 22 22:46:57 2025] Key pressed: y
+[Tue Apr 22 22:46:57 2025] Key pressed: ,
+[Tue Apr 22 22:46:58 2025] Special key pressed: Key.space
+[Tue Apr 22 22:46:59 2025] Key pressed: h
+[Tue Apr 22 22:46:59 2025] Key pressed: o
+[Tue Apr 22 22:46:59 2025] Key pressed: n
+[Tue Apr 22 22:46:59 2025] Key pressed: e
+[Tue Apr 22 22:46:59 2025] Key pressed: y
+[Tue Apr 22 22:47:00 2025] Key pressed: p
+[Tue Apr 22 22:47:00 2025] Key pressed: o
+[Tue Apr 22 22:47:00 2025] Key pressed: t
+[Tue Apr 22 22:47:00 2025] Key pressed: ,
+[Tue Apr 22 22:47:00 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:01 2025] Key pressed: s
+[Tue Apr 22 22:47:01 2025] Key pressed: p
+[Tue Apr 22 22:47:01 2025] Key pressed: r
+[Tue Apr 22 22:47:01 2025] Key pressed: i
+[Tue Apr 22 22:47:01 2025] Key pressed: t
+[Tue Apr 22 22:47:01 2025] Key pressed: e
+[Tue Apr 22 22:47:01 2025] Key pressed: ,
+[Tue Apr 22 22:47:01 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:02 2025] Key pressed: t
+[Tue Apr 22 22:47:02 2025] Key pressed: e
+[Tue Apr 22 22:47:02 2025] Key pressed: l
+[Tue Apr 22 22:47:02 2025] Key pressed: e
+[Tue Apr 22 22:47:02 2025] Key pressed: g
+[Tue Apr 22 22:47:02 2025] Key pressed: r
+[Tue Apr 22 22:47:02 2025] Key pressed: a
+[Tue Apr 22 22:47:03 2025] Key pressed: m
+[Tue Apr 22 22:47:03 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:04 2025] Key pressed: i
+[Tue Apr 22 22:47:04 2025] Key pressed: n
+[Tue Apr 22 22:47:04 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:04 2025] Key pressed: s
+[Tue Apr 22 22:47:05 2025] Key pressed: e
+[Tue Apr 22 22:47:05 2025] Key pressed: q
+[Tue Apr 22 22:47:05 2025] Key pressed: u
+[Tue Apr 22 22:47:05 2025] Key pressed: e
+[Tue Apr 22 22:47:05 2025] Key pressed: n
+[Tue Apr 22 22:47:06 2025] Key pressed: c
+[Tue Apr 22 22:47:06 2025] Key pressed: e
+[Tue Apr 22 22:47:06 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:07 2025] Key pressed: i
+[Tue Apr 22 22:47:07 2025] Key pressed: n
+[Tue Apr 22 22:47:07 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:08 2025] Key pressed: t
+[Tue Apr 22 22:47:08 2025] Key pressed: h
+[Tue Apr 22 22:47:08 2025] Key pressed: e
+[Tue Apr 22 22:47:08 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:09 2025] Key pressed: b
+[Tue Apr 22 22:47:09 2025] Key pressed: a
+[Tue Apr 22 22:47:09 2025] Key pressed: c
+[Tue Apr 22 22:47:09 2025] Key pressed: k
+[Tue Apr 22 22:47:09 2025] Key pressed: e
+[Tue Apr 22 22:47:10 2025] Key pressed: n
+[Tue Apr 22 22:47:10 2025] Key pressed: e
+[Tue Apr 22 22:47:10 2025] Key pressed: d
+[Tue Apr 22 22:47:10 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:11 2025] Key pressed: d
+[Tue Apr 22 22:47:11 2025] Key pressed: e
+[Tue Apr 22 22:47:11 2025] Key pressed: p
+[Tue Apr 22 22:47:11 2025] Key pressed: o
+[Tue Apr 22 22:47:12 2025] Key pressed: s
+[Tue Apr 22 22:47:12 2025] Key pressed: i
+[Tue Apr 22 22:47:12 2025] Key pressed: t
+[Tue Apr 22 22:47:12 2025] Key pressed: o
+[Tue Apr 22 22:47:12 2025] Key pressed: r
+[Tue Apr 22 22:47:12 2025] Key pressed: y
+[Tue Apr 22 22:47:12 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:47:30 2025] Key pressed: n
+[Tue Apr 22 22:47:30 2025] Key pressed: o
+[Tue Apr 22 22:47:30 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:30 2025] Key pressed: i
+[Tue Apr 22 22:47:30 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:31 2025] Key pressed: m
+[Tue Apr 22 22:47:31 2025] Key pressed: e
+[Tue Apr 22 22:47:31 2025] Key pressed: a
+[Tue Apr 22 22:47:31 2025] Key pressed: n
+[Tue Apr 22 22:47:31 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:31 2025] Key pressed: t
+[Tue Apr 22 22:47:31 2025] Key pressed: h
+[Tue Apr 22 22:47:31 2025] Key pressed: a
+[Tue Apr 22 22:47:31 2025] Key pressed: t
+[Tue Apr 22 22:47:31 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:32 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:47:32 2025] Key pressed: s
+[Tue Apr 22 22:47:32 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:33 2025] Key pressed: w
+[Tue Apr 22 22:47:33 2025] Key pressed: h
+[Tue Apr 22 22:47:33 2025] Key pressed: a
+[Tue Apr 22 22:47:33 2025] Key pressed: t
+[Tue Apr 22 22:47:33 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:33 2025] Key pressed: i
+[Tue Apr 22 22:47:33 2025] Key pressed: s
+[Tue Apr 22 22:47:33 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:33 2025] Key pressed: w
+[Tue Apr 22 22:47:33 2025] Key pressed: o
+[Tue Apr 22 22:47:34 2025] Key pressed: r
+[Tue Apr 22 22:47:34 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:47:34 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:47:34 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:47:35 2025] Key pressed: t
+[Tue Apr 22 22:47:35 2025] Key pressed: h
+[Tue Apr 22 22:47:35 2025] Key pressed: e
+[Tue Apr 22 22:47:35 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:35 2025] Key pressed: c
+[Tue Apr 22 22:47:35 2025] Key pressed: o
+[Tue Apr 22 22:47:35 2025] Key pressed: d
+[Tue Apr 22 22:47:35 2025] Key pressed: e
+[Tue Apr 22 22:47:35 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:36 2025] Key pressed: f
+[Tue Apr 22 22:47:36 2025] Key pressed: o
+[Tue Apr 22 22:47:36 2025] Key pressed: r
+[Tue Apr 22 22:47:36 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:36 2025] Key pressed: e
+[Tue Apr 22 22:47:36 2025] Key pressed: a
+[Tue Apr 22 22:47:37 2025] Key pressed: c
+[Tue Apr 22 22:47:37 2025] Key pressed: h
+[Tue Apr 22 22:47:37 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:37 2025] Key pressed: f
+[Tue Apr 22 22:47:37 2025] Key pressed: i
+[Tue Apr 22 22:47:37 2025] Key pressed: l
+[Tue Apr 22 22:47:37 2025] Key pressed: e
+[Tue Apr 22 22:47:37 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:37 2025] Key pressed: e
+[Tue Apr 22 22:47:38 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:47:38 2025] Key pressed: i
+[Tue Apr 22 22:47:38 2025] Key pressed: n
+[Tue Apr 22 22:47:38 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:38 2025] Key pressed: t
+[Tue Apr 22 22:47:39 2025] Key pressed: h
+[Tue Apr 22 22:47:39 2025] Key pressed: e
+[Tue Apr 22 22:47:39 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:39 2025] Key pressed: b
+[Tue Apr 22 22:47:39 2025] Key pressed: a
+[Tue Apr 22 22:47:39 2025] Key pressed: c
+[Tue Apr 22 22:47:39 2025] Key pressed: k
+[Tue Apr 22 22:47:40 2025] Key pressed: e
+[Tue Apr 22 22:47:40 2025] Key pressed: n
+[Tue Apr 22 22:47:40 2025] Key pressed: d
+[Tue Apr 22 22:47:40 2025] Special key pressed: Key.space
+[Tue Apr 22 22:47:41 2025] Key pressed: r
+[Tue Apr 22 22:47:42 2025] Key pressed: e
+[Tue Apr 22 22:47:42 2025] Key pressed: s
+[Tue Apr 22 22:47:42 2025] Key pressed: p
+[Tue Apr 22 22:47:42 2025] Key pressed: e
+[Tue Apr 22 22:47:43 2025] Key pressed: c
+[Tue Apr 22 22:47:43 2025] Key pressed: t
+[Tue Apr 22 22:47:43 2025] Key pressed: i
+[Tue Apr 22 22:47:43 2025] Key pressed: v
+[Tue Apr 22 22:47:43 2025] Key pressed: e
+[Tue Apr 22 22:47:43 2025] Key pressed: l
+[Tue Apr 22 22:47:43 2025] Key pressed: y
+[Tue Apr 22 22:47:43 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:48:22 2025] Key pressed: o
+[Tue Apr 22 22:48:23 2025] Key pressed: k
+[Tue Apr 22 22:48:23 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:23 2025] Key pressed: c
+[Tue Apr 22 22:48:23 2025] Key pressed: a
+[Tue Apr 22 22:48:23 2025] Key pressed: n
+[Tue Apr 22 22:48:23 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:24 2025] Key pressed: y
+[Tue Apr 22 22:48:24 2025] Key pressed: o
+[Tue Apr 22 22:48:24 2025] Key pressed: u
+[Tue Apr 22 22:48:24 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:24 2025] Key pressed: z
+[Tue Apr 22 22:48:24 2025] Key pressed: i
+[Tue Apr 22 22:48:25 2025] Key pressed: p
+[Tue Apr 22 22:48:25 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:25 2025] Key pressed: a
+[Tue Apr 22 22:48:25 2025] Key pressed: l
+[Tue Apr 22 22:48:25 2025] Key pressed: l
+[Tue Apr 22 22:48:25 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:25 2025] Key pressed: t
+[Tue Apr 22 22:48:25 2025] Key pressed: h
+[Tue Apr 22 22:48:25 2025] Key pressed: a
+[Tue Apr 22 22:48:25 2025] Key pressed: t
+[Tue Apr 22 22:48:26 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:26 2025] Key pressed: u
+[Tue Apr 22 22:48:26 2025] Key pressed: p
+[Tue Apr 22 22:48:26 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:26 2025] Key pressed: a
+[Tue Apr 22 22:48:26 2025] Key pressed: n
+[Tue Apr 22 22:48:26 2025] Key pressed: d
+[Tue Apr 22 22:48:26 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:26 2025] Key pressed: w
+[Tue Apr 22 22:48:26 2025] Key pressed: e
+[Tue Apr 22 22:48:27 2025] Key pressed: '
+[Tue Apr 22 22:48:27 2025] Key pressed: l
+[Tue Apr 22 22:48:27 2025] Key pressed: l
+[Tue Apr 22 22:48:27 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:28 2025] Key pressed: a
+[Tue Apr 22 22:48:28 2025] Key pressed: c
+[Tue Apr 22 22:48:28 2025] Key pressed: t
+[Tue Apr 22 22:48:28 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:28 2025] Key pressed: a
+[Tue Apr 22 22:48:28 2025] Key pressed: s
+[Tue Apr 22 22:48:30 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:48:30 2025] Special key pressed: Key.backspace
+[Tue Apr 22 22:48:33 2025] Key pressed: u
+[Tue Apr 22 22:48:33 2025] Key pressed: s
+[Tue Apr 22 22:48:33 2025] Key pressed: i
+[Tue Apr 22 22:48:33 2025] Key pressed: n
+[Tue Apr 22 22:48:33 2025] Key pressed: g
+[Tue Apr 22 22:48:33 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:34 2025] Key pressed: t
+[Tue Apr 22 22:48:34 2025] Key pressed: h
+[Tue Apr 22 22:48:34 2025] Key pressed: i
+[Tue Apr 22 22:48:34 2025] Key pressed: s
+[Tue Apr 22 22:48:34 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:34 2025] Key pressed: a
+[Tue Apr 22 22:48:34 2025] Key pressed: s
+[Tue Apr 22 22:48:34 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:34 2025] Key pressed: t
+[Tue Apr 22 22:48:35 2025] Key pressed: h
+[Tue Apr 22 22:48:35 2025] Key pressed: e
+[Tue Apr 22 22:48:35 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:36 2025] Key pressed: l
+[Tue Apr 22 22:48:37 2025] Key pressed: a
+[Tue Apr 22 22:48:37 2025] Key pressed: t
+[Tue Apr 22 22:48:37 2025] Key pressed: e
+[Tue Apr 22 22:48:37 2025] Key pressed: s
+[Tue Apr 22 22:48:37 2025] Key pressed: t
+[Tue Apr 22 22:48:37 2025] Special key pressed: Key.space
+[Tue Apr 22 22:48:38 2025] Key pressed: i
+[Tue Apr 22 22:48:38 2025] Key pressed: t
+[Tue Apr 22 22:48:38 2025] Key pressed: e
+[Tue Apr 22 22:48:38 2025] Key pressed: r
+[Tue Apr 22 22:48:38 2025] Key pressed: a
+[Tue Apr 22 22:48:38 2025] Key pressed: t
+[Tue Apr 22 22:48:39 2025] Key pressed: i
+[Tue Apr 22 22:48:39 2025] Key pressed: o
+[Tue Apr 22 22:48:39 2025] Key pressed: n
+[Tue Apr 22 22:48:39 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:49:12 2025] Key pressed: i
+[Tue Apr 22 22:49:12 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:12 2025] Key pressed: m
+[Tue Apr 22 22:49:12 2025] Key pressed: e
+[Tue Apr 22 22:49:12 2025] Key pressed: a
+[Tue Apr 22 22:49:12 2025] Key pressed: n
+[Tue Apr 22 22:49:12 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:12 2025] Key pressed: c
+[Tue Apr 22 22:49:13 2025] Key pressed: a
+[Tue Apr 22 22:49:13 2025] Key pressed: n
+[Tue Apr 22 22:49:13 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:13 2025] Key pressed: y
+[Tue Apr 22 22:49:13 2025] Key pressed: o
+[Tue Apr 22 22:49:13 2025] Key pressed: u
+[Tue Apr 22 22:49:13 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:13 2025] Key pressed: p
+[Tue Apr 22 22:49:13 2025] Key pressed: r
+[Tue Apr 22 22:49:14 2025] Key pressed: i
+[Tue Apr 22 22:49:14 2025] Key pressed: n
+[Tue Apr 22 22:49:14 2025] Key pressed: t
+[Tue Apr 22 22:49:14 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:14 2025] Key pressed: o
+[Tue Apr 22 22:49:14 2025] Key pressed: u
+[Tue Apr 22 22:49:14 2025] Key pressed: t
+[Tue Apr 22 22:49:14 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:14 2025] Key pressed: a
+[Tue Apr 22 22:49:14 2025] Key pressed: l
+[Tue Apr 22 22:49:15 2025] Key pressed: l
+[Tue Apr 22 22:49:15 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:15 2025] Key pressed: o
+[Tue Apr 22 22:49:15 2025] Key pressed: f
+[Tue Apr 22 22:49:15 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:15 2025] Key pressed: t
+[Tue Apr 22 22:49:15 2025] Key pressed: h
+[Tue Apr 22 22:49:15 2025] Key pressed: e
+[Tue Apr 22 22:49:15 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:18 2025] Key pressed: f
+[Tue Apr 22 22:49:18 2025] Key pressed: i
+[Tue Apr 22 22:49:19 2025] Key pressed: l
+[Tue Apr 22 22:49:19 2025] Key pressed: e
+[Tue Apr 22 22:49:19 2025] Key pressed: s
+[Tue Apr 22 22:49:19 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:20 2025] Key pressed: s
+[Tue Apr 22 22:49:20 2025] Key pressed: o
+[Tue Apr 22 22:49:20 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:20 2025] Key pressed: i
+[Tue Apr 22 22:49:20 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:20 2025] Key pressed: c
+[Tue Apr 22 22:49:20 2025] Key pressed: a
+[Tue Apr 22 22:49:20 2025] Key pressed: n
+[Tue Apr 22 22:49:20 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:21 2025] Key pressed: d
+[Tue Apr 22 22:49:21 2025] Key pressed: o
+[Tue Apr 22 22:49:21 2025] Key pressed: w
+[Tue Apr 22 22:49:21 2025] Key pressed: n
+[Tue Apr 22 22:49:21 2025] Key pressed: l
+[Tue Apr 22 22:49:21 2025] Key pressed: o
+[Tue Apr 22 22:49:21 2025] Key pressed: a
+[Tue Apr 22 22:49:22 2025] Key pressed: d
+[Tue Apr 22 22:49:22 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:22 2025] Key pressed: t
+[Tue Apr 22 22:49:22 2025] Key pressed: h
+[Tue Apr 22 22:49:22 2025] Key pressed: e
+[Tue Apr 22 22:49:22 2025] Key pressed: m
+[Tue Apr 22 22:49:23 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:23 2025] Special key pressed: Key.shift
+[Tue Apr 22 22:49:23 2025] Key pressed: ?
+[Tue Apr 22 22:49:24 2025] Special key pressed: Key.space
+[Tue Apr 22 22:49:26 2025] Special key pressed: Key.enter
+[Tue Apr 22 22:49:36 2025] Clipboard changed: 'import time
+from watcher_core import log_event
+f'
+Starting Watcher Backend...
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Starting Watcher Backend...
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ
+Event detected: keylogger_spike
+[DECOY PAYLOAD INJECTED] user: admin | pass: 1234pass!
+[DECOY PAYLOAD INJECTED] email: fake@decoy.com | key: FAKE-KEY-9999
+[DECOY PAYLOAD INJECTED] login_token=ABC123FAKE999XYZ

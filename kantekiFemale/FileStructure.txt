@@ -1,0 +1,6 @@
+backend_sensors
+├── watcher_core.py      ← full sensor backend
+├── payloads
+│   └── cryptic_payloads.txt
+├── logs
+│   └── event_log.txt
