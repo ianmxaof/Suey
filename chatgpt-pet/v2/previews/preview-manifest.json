@@ -1,0 +1,16 @@
+{
+  "atlas": "<creation-workspace>\\outputs\\Suey-v2\\Suey-v2.png",
+  "sha256": "5503d78ee4adf561f0c5449b51a747403830e3003cc71462d9642c4cd2183fe5",
+  "standard_states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "has_look_loop": true
+}

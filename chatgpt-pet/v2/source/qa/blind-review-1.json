@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A has its nose and exposed face directed left of the hair center; B has its nose and eyes directed right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A's facial plane and nose extend left, with hair heavier on the right; B's facial plane and nose extend right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A shows a right-facing nose and eye line; B shows a left-facing nose and eye line, with the opposite cheek obscured by hair."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's lowered face turns left and its nose reaches the left silhouette; B's nose projects right and the face is exposed on the right side."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's downturned nose and eyes face left of the head center; B's downturned nose and eyes face right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's lowered face is offset right beneath its bangs; B's lowered face is offset left and its nose points left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A has a slight leftward facial offset and left-pointing nose beneath the bangs; B's nose, eyes, and exposed cheek favor the right."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A lowers its chin with bangs covering the upper face and eyes aimed downward; B raises its chin, exposes more face and neck, and directs eyes upward."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's nose and chin tilt upward and the neck is exposed; B bows its head with a low eye line and chin tucked toward the collar."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's eyes and nose angle downward beneath the bangs; B's nose and eye line rise and its chin lifts away from the collar."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's face and gaze have a slight downward pitch with the chin nearer the collar; B's nose and eye line tilt upward with the neck more exposed."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A raises the nose and chin with eyes directed above level; B tucks the chin and looks down beneath lowered bangs."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"Native-resolution reinspection confirms B is populated. A lifts its left-facing nose and chin and exposes the neck; B tucks its chin, lowers the nose and eye line, and looks down beneath its bangs."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A's left-facing eye line and nose angle slightly upward with a lifted chin; B's left-facing eyes and nose angle downward with the chin lowered."}
+  ]
+}

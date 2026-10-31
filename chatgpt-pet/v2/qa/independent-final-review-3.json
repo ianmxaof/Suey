@@ -1,0 +1,17 @@
+{
+  "reviewer": "independent-review-3",
+  "inputs": ["outputs/Suey-v2/contact-sheet.png", "outputs/Suey-v2/previews/motion-stills.png"],
+  "scope": "Independent visual inspection of populated standard animation frames and motion stills. Blind gaze judgments were recorded before opening the labeled contact sheet.",
+  "verdict": "pass_with_notes",
+  "blocking_findings": [],
+  "checks": {
+    "fixed_blank_expression": {"result":"pass","finding":"Open eyes and tiny neutral mouth remain visually consistent across standard actions; head tilt and lowering convey action without a conspicuous smile, frown, or exaggerated expression."},
+    "straight_black_hair": {"result":"pass","finding":"Black blunt fringe and mostly straight shoulder-length hair remain consistent. Jumping briefly spreads the lower hair tips with the motion."},
+    "straight_apron_dress": {"result":"pass_with_note","finding":"The black dress and white apron remain recognizable with a restrained A-line silhouette. The jumping frames briefly widen the lower skirt; the garment is not perfectly column-straight."},
+    "no_cape": {"result":"pass","finding":"No separate cape, cloak, or trailing back garment is visible in the front and profile frames."},
+    "consistent_props": {"result":"pass","finding":"The small belt-mounted tool cluster remains present and visually consistent in standard actions. No conspicuous duplicate or disappearing prop is visible at this sheet scale."},
+    "clipping": {"result":"pass","finding":"Hair, hands, dress, and feet remain inside the populated frame boundaries; no obvious edge truncation or detached major body part is visible."},
+    "identity": {"result":"pass","finding":"Headband, fringe, pale face, black outfit, apron, white legs, and black shoes maintain a consistent identity across front and both profile running actions."}
+  },
+  "notes": ["Checkerboard cells beyond the declared frame counts are intentionally empty and were not treated as missing animation frames.", "This review assesses still-frame appearance; it does not independently establish animation timing or temporal smoothness."]
+}

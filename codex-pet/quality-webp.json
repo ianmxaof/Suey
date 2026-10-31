@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\ianmp\\Documents\\Codex\\Suey\\codex-pet\\spritesheet.webp",
+  "encoded_bytes": 918228,
+  "sha256": "166c73ef858913545f97d6e9709e4e75ce95174f6fa4da236e226ce9f7635b3e",
+  "jump": {
+    "idle_baseline": 196,
+    "jump_baselines": [
+      196,
+      196,
+      181,
+      184,
+      196
+    ],
+    "airborne_lift_pixels": 15,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      95.5,
+      96.0,
+      95.5,
+      97.0,
+      97.0,
+      97.0,
+      96.0,
+      96.0
+    ],
+    "look_widths": [
+      53,
+      52,
+      52,
+      52,
+      52,
+      52,
+      52,
+      52,
+      53,
+      54,
+      53,
+      54,
+      54,
+      54,
+      54,
+      54
+    ],
+    "maximum_center_drift_pixels": 1.5,
+    "maximum_width_ratio": 1.0384615384615385
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "090->112.5 diff is a local outlier (653 pixels vs neighbor average 402)",
+    "157.5->180 diff is a local outlier (905 pixels vs neighbor average 505)",
+    "225->247.5 diff is a local outlier (1056 pixels vs neighbor average 628)",
+    "292.5->315 diff is a local outlier (896 pixels vs neighbor average 490)",
+    "337.5->000 diff is a local outlier (1102 pixels vs neighbor average 582)"
+  ]
+}

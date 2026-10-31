@@ -1,0 +1,9 @@
+{
+  "approved": true,
+  "reviewer": "primary visual review",
+  "up": "Chin raised and pupils high; mouth closed and impassive.",
+  "right": "Nose and face aim screen right, far eye occluded.",
+  "down": "Chin tucked and eyes lowered beneath fringe; no emotional expression.",
+  "left": "Nose and face aim screen left, far eye occluded.",
+  "registration": "Uneven source spacing corrected with bundled connected-component extraction and cardinal composition. Lower body and pouch remain anchored."
+}

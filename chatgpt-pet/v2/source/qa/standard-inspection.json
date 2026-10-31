@@ -1,0 +1,979 @@
+{
+  "ok": true,
+  "frames_root": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7213,
+          "bbox": [
+            67,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7340,
+          "bbox": [
+            67,
+            22,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 11
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7373,
+          "bbox": [
+            66,
+            22,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7394,
+          "bbox": [
+            67,
+            22,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 11
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7359,
+          "bbox": [
+            67,
+            22,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7174,
+          "bbox": [
+            67,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 6
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7309,
+          "bbox": [
+            50,
+            22,
+            145,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5669,
+          "bbox": [
+            71,
+            22,
+            119,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7239,
+          "bbox": [
+            50,
+            22,
+            146,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5659,
+          "bbox": [
+            71,
+            22,
+            119,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7335,
+          "bbox": [
+            50,
+            22,
+            145,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5657,
+          "bbox": [
+            71,
+            22,
+            119,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 23
+        },
+        {
+          "index": 6,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7323,
+          "bbox": [
+            49,
+            22,
+            147,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        },
+        {
+          "index": 7,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5682,
+          "bbox": [
+            71,
+            22,
+            119,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7157,
+          "bbox": [
+            46,
+            23,
+            143,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5861,
+          "bbox": [
+            74,
+            22,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7222,
+          "bbox": [
+            44,
+            23,
+            145,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5889,
+          "bbox": [
+            75,
+            23,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7224,
+          "bbox": [
+            44,
+            23,
+            146,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5862,
+          "bbox": [
+            75,
+            23,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 6,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7288,
+          "bbox": [
+            42,
+            23,
+            148,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 7,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5869,
+          "bbox": [
+            74,
+            23,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6841,
+          "bbox": [
+            69,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 8
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7020,
+          "bbox": [
+            66,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6894,
+          "bbox": [
+            62,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 7
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6968,
+          "bbox": [
+            62,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6890,
+          "bbox": [
+            69,
+            25,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6974,
+          "bbox": [
+            63,
+            32,
+            132,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 20
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7377,
+          "bbox": [
+            58,
+            10,
+            137,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7258,
+          "bbox": [
+            57,
+            21,
+            136,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6924,
+          "bbox": [
+            68,
+            26,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6690,
+          "bbox": [
+            70,
+            23,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 15
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6649,
+          "bbox": [
+            70,
+            26,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6346,
+          "bbox": [
+            68,
+            30,
+            127,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 20
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6142,
+          "bbox": [
+            67,
+            34,
+            126,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 15
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6448,
+          "bbox": [
+            68,
+            29,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6697,
+          "bbox": [
+            72,
+            25,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 6,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6731,
+          "bbox": [
+            72,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        },
+        {
+          "index": 7,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6747,
+          "bbox": [
+            71,
+            22,
+            122,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7032,
+          "bbox": [
+            69,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 15
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6917,
+          "bbox": [
+            69,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6971,
+          "bbox": [
+            67,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7042,
+          "bbox": [
+            67,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6964,
+          "bbox": [
+            67,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 20
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6924,
+          "bbox": [
+            69,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6663,
+          "bbox": [
+            69,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6670,
+          "bbox": [
+            70,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6613,
+          "bbox": [
+            70,
+            22,
+            122,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6579,
+          "bbox": [
+            70,
+            22,
+            122,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6664,
+          "bbox": [
+            69,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6579,
+          "bbox": [
+            70,
+            22,
+            123,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7184,
+          "bbox": [
+            69,
+            22,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 1,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6872,
+          "bbox": [
+            69,
+            27,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 2,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7178,
+          "bbox": [
+            69,
+            22,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 3,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7154,
+          "bbox": [
+            69,
+            22,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        },
+        {
+          "index": 4,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6954,
+          "bbox": [
+            70,
+            22,
+            124,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 8
+        },
+        {
+          "index": 5,
+          "file": "<creation-workspace>\\work\\Pets\\Suey\\v2\\registered-frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7155,
+          "bbox": [
+            69,
+            22,
+            125,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 15
+        }
+      ]
+    }
+  ],
+  "visualReview": {
+    "expression": "Blank closed mouth, neutral brows and dark impassive eyes retained in all nine states.",
+    "identity": "Straight black hair, white headband, black straight apron dress, stockings and Mary Janes; no cape.",
+    "stateSemantics": "Idle breathes, walks alternate extended/passing steps, wave uses attached hand, jump visibly lifts/lands, failure slumps, waiting offers palm, work handles bag/key/scroll, review leans and tilts.",
+    "sourceClipping": "Left-walk margin repaired in source generation; latest complete strip re-extracted."
+  }
+}

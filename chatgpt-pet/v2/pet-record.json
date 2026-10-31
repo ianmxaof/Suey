@@ -1,0 +1,12 @@
+{
+  "id": "pet_6ae032c4cbf48191958947f4d0f027cc",
+  "name": "Suey",
+  "description": "A blank-faced Alice-like wandering guardian in a straight apron dress, carrying cryptic verses and decoy keys in her little bag of tricks. Inspired by Ian’s original Suey.",
+  "is_custom": true,
+  "is_active": true,
+  "verified_by": "select_pet and list_pets",
+  "atlas": "Suey-v2.png",
+  "sha256": "5503d78ee4adf561f0c5449b51a747403830e3003cc71462d9642c4cd2183fe5",
+  "encoded_bytes": 1401690,
+  "version": 2
+}

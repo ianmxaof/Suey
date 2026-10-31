@@ -1,0 +1,14 @@
+{
+  "row9_max_source_height": 552,
+  "row10_max_source_height": 581,
+  "uniform_row10_scale": 0.9500860585197934,
+  "old_dimensions": [
+    2172,
+    724
+  ],
+  "new_dimensions": [
+    2064,
+    688
+  ],
+  "method": "Uniform whole-strip scale of generated pixels; no poses redrawn or individual cells replaced."
+}

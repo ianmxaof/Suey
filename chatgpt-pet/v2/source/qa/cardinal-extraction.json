@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\look-cardinal-anchors.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        192,
+        208
+      ],
+      "used_pixels": 8308,
+      "edge_pixels": 0,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals-approved\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        192,
+        0,
+        384,
+        208
+      ],
+      "used_pixels": 8166,
+      "edge_pixels": 0,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals-approved\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        384,
+        0,
+        576,
+        208
+      ],
+      "used_pixels": 8360,
+      "edge_pixels": 0,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals-approved\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        576,
+        0,
+        768,
+        208
+      ],
+      "used_pixels": 8208,
+      "edge_pixels": 0,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals-approved\\270.png"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "source_sha256": "5503d78ee4adf561f0c5449b51a747403830e3003cc71462d9642c4cd2183fe5",
+  "animations": [
+    {
+      "state": "idle",
+      "frames": 6,
+      "file": "idle.gif"
+    },
+    {
+      "state": "running-right",
+      "frames": 8,
+      "file": "running-right.gif"
+    },
+    {
+      "state": "running-left",
+      "frames": 8,
+      "file": "running-left.gif"
+    },
+    {
+      "state": "waving",
+      "frames": 4,
+      "file": "waving.gif"
+    },
+    {
+      "state": "jumping",
+      "frames": 5,
+      "file": "jumping.gif"
+    },
+    {
+      "state": "failed",
+      "frames": 8,
+      "file": "failed.gif"
+    },
+    {
+      "state": "waiting",
+      "frames": 6,
+      "file": "waiting.gif"
+    },
+    {
+      "state": "running",
+      "frames": 6,
+      "file": "running.gif"
+    },
+    {
+      "state": "review",
+      "frames": 6,
+      "file": "review.gif"
+    }
+  ],
+  "codex_v2": "C:\\Users\\ianmp\\Documents\\Codex\\Suey\\codex-pet",
+  "codex_v1_fallback": "C:\\Users\\ianmp\\Documents\\Codex\\Suey\\codex-pet-compat",
+  "desktop_assets": "C:\\Users\\ianmp\\Documents\\Codex\\Suey\\kantekiFemale\\wandering_sprite_full_package\\assets"
+}

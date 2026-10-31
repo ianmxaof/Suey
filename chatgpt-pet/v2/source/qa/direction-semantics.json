@@ -1,0 +1,24 @@
+{
+  "reviewer": "primary final visual review",
+  "atlas_sha256": "5503d78ee4adf561f0c5449b51a747403830e3003cc71462d9642c4cd2183fe5",
+  "directions": [
+    {"label":"000","expected":"up","observed":"Face tips upward, nose raised centrally.","verdict":"pass","reason":"Lifted chin and visible underside of jaw above the collar; eyes aim upward while torso and bag remain anchored."},
+    {"label":"022.5","expected":"up-right","observed":"Raised face with a slight rightward turn.","verdict":"pass","reason":"Nose and exposed cheek favor screen-right, with chin lifted and eye line above neutral."},
+    {"label":"045","expected":"up-right","observed":"Upward rightward gaze.","verdict":"pass","reason":"Nose projects right of head center, chin rises and the left hair mass occludes the far cheek."},
+    {"label":"067.5","expected":"up-right","observed":"Near right profile with upward pitch.","verdict":"pass","reason":"Right nose contour and lifted eye plane indicate right and up; apron and feet stay frontal."},
+    {"label":"090","expected":"right","observed":"Clear right profile at level pitch.","verdict":"pass","reason":"Nose tip projects screen-right and visible eye faces right; chin is level, feet and body remain planted."},
+    {"label":"112.5","expected":"down-right","observed":"Right-facing head with subtle downward pitch.","verdict":"warning","reason":"Eye line lowers beneath bangs and chin approaches collar while nose remains rightward. Downward component is mild, but no quadrant reversal is visible."},
+    {"label":"135","expected":"down-right","observed":"Rightward face tilted down.","verdict":"pass","reason":"Bangs cover upper face, nose points down and right, chin tucks toward collar."},
+    {"label":"157.5","expected":"down-right","observed":"Strong downward pitch retaining rightward yaw.","verdict":"pass","reason":"Forehead and bangs dominate, lowered face remains exposed on screen-right with nose projecting right."},
+    {"label":"180","expected":"down","observed":"Centered bowed head looking down.","verdict":"pass","reason":"Chin tucks centrally toward collar, bangs hide upper eyes and crown is more exposed; torso remains upright."},
+    {"label":"202.5","expected":"down-left","observed":"Bowed head with slight leftward yaw.","verdict":"warning","reason":"Nose and exposed cheek shift to screen-left below bangs. Left component is subtle but agrees with the following leftward family and is not reversed."},
+    {"label":"225","expected":"down-left","observed":"Downward leftward gaze.","verdict":"pass","reason":"Lowered nose and chin project screen-left beneath the fringe; right hair mass occludes far cheek."},
+    {"label":"247.5","expected":"down-left","observed":"Near left profile with mild downward pitch.","verdict":"pass","reason":"Left nose contour and lowered eye line beneath bangs indicate left and down; bag remains on its fixed side."},
+    {"label":"270","expected":"left","observed":"Clear left profile at level pitch.","verdict":"pass","reason":"Nose and eye plane point screen-left; chin is near level and the planted torso does not rotate as a turntable."},
+    {"label":"292.5","expected":"up-left","observed":"Left profile with slightly raised gaze.","verdict":"pass","reason":"Nose and chin lift while projecting left, exposing more jaw and neck than 270."},
+    {"label":"315","expected":"up-left","observed":"Leftward face raised upward.","verdict":"pass","reason":"High nose tip and visible underside of chin establish upward pitch; face is exposed toward left."},
+    {"label":"337.5","expected":"up-left","observed":"Raised face nearing centered up pose, retaining left yaw.","verdict":"pass","reason":"Nose remains left of head center while chin lifts and eyes aim upward. Body, apron and bag stay anchored into the wrap to 000."}
+  ],
+  "continuity_review": "Reviewed final labeled sheet and ordered loop. Whole-row scale correction removes the row-boundary size pop. Some adjacent pitch increments are modest; no wrong quadrant, lost face, body turntable, interior hole, or cardinal ambiguity observed.",
+  "expression_review": "Closed tiny mouth and impassive eye design persist. Changes are head orientation and body gestures, without smiling or expressive brows."
+}

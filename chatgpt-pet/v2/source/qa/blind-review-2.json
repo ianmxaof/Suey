@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose and visible facial plane project left; B nose and visible facial plane project right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A eyes and nose are displaced toward the left side of the head; B eyes and nose are displaced toward the right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A face opens toward the right with the nose on the right contour; B face opens toward the left with the nose on the left contour."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A nose silhouette projects left beneath the bangs; B nose silhouette projects right beneath the bangs."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A lowered face still has its nose and eye plane directed left; B nose and eye plane are directed right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A lowered nose is on the right-facing cheek contour; B lowered nose is on the left-facing cheek contour."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A nose and eye placement indicate leftward yaw despite the downward pitch; B nose and eye placement indicate rightward yaw."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A bangs cover the lowered eyes and chin folds toward the chest; B face is lifted with a high nose and exposed underside of the chin."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A nose and chin are lifted and gaze rises; B forehead dominates while the nose and chin tuck downward."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A eyes and nose sit low under the bangs with a tucked chin; B face and nose tip tilt upward with an extended chin."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A nose and eyes incline slightly toward the floor beneath the bangs; B nose tilts upward and the chin is lifted."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A face is raised and the nose projects upward; B eyes sit under lowered bangs and the chin tucks toward the chest."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A nose and eye plane incline upward with a raised chin; B nose and chin incline downward beneath the fringe."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A has a subtle raised nose and chin with the eye plane looking slightly upward; B has a slightly lowered nose and tucked chin beneath the bangs."}
+  ]
+}

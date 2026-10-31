@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "atlas": "<creation-workspace>\\outputs\\Suey-v2\\Suey-v2.png",
+  "encoded_bytes": 1401690,
+  "sha256": "5503d78ee4adf561f0c5449b51a747403830e3003cc71462d9642c4cd2183fe5",
+  "jump": {
+    "idle_baseline": 196,
+    "jump_baselines": [
+      196,
+      196,
+      181,
+      184,
+      196
+    ],
+    "airborne_lift_pixels": 15,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      95.5,
+      96.0,
+      95.5,
+      97.0,
+      97.0,
+      97.0,
+      96.0,
+      96.0
+    ],
+    "look_widths": [
+      53,
+      52,
+      52,
+      52,
+      52,
+      52,
+      52,
+      52,
+      53,
+      54,
+      53,
+      54,
+      54,
+      54,
+      54,
+      54
+    ],
+    "maximum_center_drift_pixels": 1.5,
+    "maximum_width_ratio": 1.0384615384615385
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "090->112.5 diff is a local outlier (653 pixels vs neighbor average 402)",
+    "157.5->180 diff is a local outlier (905 pixels vs neighbor average 505)",
+    "225->247.5 diff is a local outlier (1056 pixels vs neighbor average 628)",
+    "292.5->315 diff is a local outlier (896 pixels vs neighbor average 490)",
+    "337.5->000 diff is a local outlier (1102 pixels vs neighbor average 582)"
+  ]
+}

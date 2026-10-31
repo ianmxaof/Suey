@@ -1,0 +1,29 @@
+# Local envs and scratch
+.venv/
+venv/
+.env
+.env.*
+.tmp/
+tmp/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+Thumbs.db
+
+# Diagnostics / extracted Codex runtime (do not publish)
+runtime-diagnostics/
+runtime-diagnostics-scan.txt
+pet-runtime-snippets.json
+runtime_snippets.py
+diagnose_pet.py
+inspect_pet_runtime.py
+check_pet_errors.py
+trace_*.py
+local-installation.json
+selection-repair.json
+
+# Package noise
+**/logs/
+**/.pytest_cache/

@@ -1,0 +1,65 @@
+{
+  "ok": false,
+  "strip": "<creation-workspace>\\work\\Pets\\Suey\\v2\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [
+    "000 has 88 non-transparent pixels near its source slot edge",
+    "090 has 40 non-transparent pixels near its source slot edge",
+    "270 has 69 non-transparent pixels near its source slot edge"
+  ],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 88089,
+      "edge_pixels": 88,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1085,
+        725
+      ],
+      "used_pixels": 86726,
+      "edge_pixels": 40,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1085,
+        0,
+        1628,
+        725
+      ],
+      "used_pixels": 89120,
+      "edge_pixels": 14,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1628,
+        0,
+        2170,
+        725
+      ],
+      "used_pixels": 87179,
+      "edge_pixels": 69,
+      "output": "<creation-workspace>\\work\\Pets\\Suey\\v2\\references\\cardinals\\270.png"
+    }
+  ]
+}

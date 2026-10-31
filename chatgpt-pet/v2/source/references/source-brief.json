@@ -1,0 +1,17 @@
+{
+  "request": "Create and select Suey based on Ian's original GitHub project, including her bag of tricks; preserve an editable first iteration.",
+  "repository": "https://github.com/ianmxaof/Suey",
+  "reviewed_commit": "06adb24de9d6f047c16779635eaea56b88d23b6f",
+  "observed": {
+    "sprite_walker.py": "Transparent always-on-top PyQt girl sprite. Randomly chooses walk1, walk2 or sit every 3 seconds; GIF assets referenced but not committed. Logs wandering whispers.",
+    "main.py": "Watcher prototype repeatedly returns a simulated keylogger_spike event, invokes decoy, reaction and Telegram hooks.",
+    "decoy_injection.py": "Logs deliberately fake credentials as decoys.",
+    "honeypot_monitor.py": "Polls directory membership and logs new entries; does not actually detect reads of existing files.",
+    "deprecated/watcher_core.py": "Legacy clipboard polling and keypress logging plus poetic-payload helper.",
+    "cryptic_payloads.txt": "Three short poems about static, watchers, encrypted verse and intent."
+  },
+  "inferred_art_direction": "SUPERSEDED by user-supplied character references: blank expression at all times, straightened black hair and blunt bangs, white headband, straight Alice-like black dress and ivory apron, no cape. Black hip trick pouch, silver key, ivory scroll. Expressions must never change; states are communicated only by body motion.",
+  "capability_boundary": "The Work pet is animated artwork and native state reactions. Repository watcher, clipboard, keyboard, honeypot and Telegram code is not executed or installed.",
+  "library_status": "No ChatGPT Library tools exposed. Local Pets/Suey folder preserves source and QA artifacts; do not claim Library upload.",
+  "selection_requested": true
+}

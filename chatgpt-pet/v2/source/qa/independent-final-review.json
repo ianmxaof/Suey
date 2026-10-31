@@ -1,0 +1,49 @@
+{
+  "reviewer": "blind-review-1",
+  "sources": [
+    "outputs/Suey-v2/contact-sheet.png",
+    "outputs/Suey-v2/look-directions.png",
+    "outputs/Suey-v2/previews/motion-stills.png"
+  ],
+  "method": "Independent visual inspection of the three PNGs at native resolution; no other reviewer reports used. Motion timing and loop playback cannot be established from still images.",
+  "blind_review_correction": {
+    "pair": "vertical-6",
+    "B": "down",
+    "finding": "The native-resolution blind panel contains a character. My earlier blank-panel finding was incorrect. The lowered nose, eye line, and tucked chin clearly read as down."
+  },
+  "character_identity": {
+    "result": "pass",
+    "finding": "The same monochrome girl remains recognizable through all occupied cells: long straight black hair, blunt bangs, white hairband, pale face, dark eyes, white stockings and black shoes. No obvious character substitution or major proportion jump is visible after scale registration."
+  },
+  "fixed_blank_expression": {
+    "result": "pass",
+    "finding": "The face stays restrained and neutral, with a tiny closed mouth and no conspicuous smile, frown, or open-mouth expression. Bowing and head tilts supply attitude without obvious facial expression changes."
+  },
+  "no_cape": {
+    "result": "pass",
+    "finding": "No separate cape is visible. The dark forms behind the shoulders read as the established long hair and dress silhouette."
+  },
+  "apron_dress": {
+    "result": "pass",
+    "finding": "The black knee-length dress and large white bib apron remain present. The profile poses retain a thin apron projection in front; frontal poses retain the rectangular white skirt panel and waist band."
+  },
+  "bag_consistency": {
+    "result": "pass_with_visibility_limit",
+    "finding": "The small dark bag with light hardware or markings remains attached at the same hip in frontal states and gaze poses. It becomes narrower or partly hidden in profile and by moving arms, as expected from the viewpoint. Fine hardware details vary slightly at this small scale, but there is no obvious detachment or major redesign."
+  },
+  "motion_and_continuity": {
+    "result": "pass_with_limitations",
+    "finding": "Feet and overall body scale look coherent across frontal states. Jumping visibly changes vertical position and arm spread; waving changes the hand and forearm; failed bows the head and shoulders; waiting, running and review have distinct small hand or head gestures. The directional locomotion rows visibly alternate a long stride with a feet-nearer-together pose. Those rows appear to repeat a small number of drawings across the eight cells, so the run may read as a simple stepping or walking cycle rather than a fluid fast run. Static sheets cannot verify timing, jitter in playback, or seamless loop closure."
+  },
+  "gaze_continuity": {
+    "result": "pass_with_limitations",
+    "finding": "The head and eyes provide clear broad up, down, left and right reads while the frontal body remains anchored. Neighboring diagonal directions are visually very similar, so precise angular separation between every adjacent labeled sample is subtle at normal display size. No obvious body-scale jump is visible in the gaze sequence."
+  },
+  "blocking_visual_defects": [],
+  "nonblocking_observations": [
+    "Directional locomotion uses conspicuously repeated stride and passing poses; playback may look like a simple two-pose step cycle.",
+    "Some neighboring diagonal gaze samples have only subtle visual separation.",
+    "Actual animation playback was not among the supplied review images."
+  ],
+  "overall": "Visual identity and costume requirements pass. No blocking defect is apparent in the still-image review; motion smoothness remains unverified."
+}

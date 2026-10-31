@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose and facial plane project left of the hair center; B nose and visible face project right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A has leftward nose projection and eyes turned left; B has rightward nose projection and facial plane."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A exposes the right-facing nose and cheek outline; B nose and eyes orient toward screen-left."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A face emerges on the left side beneath the bangs; B face and nose emerge on the right side."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A nose and chin project left despite lowered pitch; B nose and facial plane project right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A lowered head still shows rightward nose projection; B lowered face and nose project left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A lowered nose and eye line are left-facing; B lowered nose and cheek face right."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A lowered face is partly covered by bangs with chin tucked; B raised face exposes its full front and looks upward."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A nose and chin are raised and eyes aim upward; B forehead and bangs dominate above a tucked face."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A face tilts down under the fringe; B nose and gaze tilt upward with an elevated chin."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A has a modest downward head pitch and tucked chin; B has a modest raised nose and chin."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A face angles up with a raised chin; B eyes are under the fringe and chin is tucked toward the chest."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A has a slightly elevated facial plane and nose; B face is lowered below the fringe."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A chin and nose have a subtle upward pitch; B face has a subtle downward pitch with eyes closer beneath the fringe."}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "approved": true,
+  "order": [
+    "up",
+    "up-right",
+    "up-right",
+    "up-right",
+    "right",
+    "down-right",
+    "down-right",
+    "down-right"
+  ],
+  "notes": "Head pitch and yaw progress clockwise; torso, dress and shoes anchored. Blank closed-mouth expression retained. Adjacent up-right steps are subtle but do not reverse. Edge spill is pending final deterministic cleanup."
+}
